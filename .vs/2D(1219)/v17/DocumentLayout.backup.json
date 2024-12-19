@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|c:\\users\\tjoeun\\desktop\\2d(1219)\\assets\\assets\\undead survivor\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|C:\\Users\\tjoeun\\Desktop\\2D(1219)\\assets\\assets\\undead survivor\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\undead survivor\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|c:\\users\\tjoeun\\desktop\\2d(1219)\\assets\\assets\\undead survivor\\script\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\undead survivor\\script\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|c:\\users\\tjoeun\\desktop\\2d(1219)\\assets\\assets\\undead survivor\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\undead survivor\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|c:\\users\\tjoeun\\desktop\\2d(1219)\\assets\\assets\\undead survivor\\script\\reposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\undead survivor\\script\\reposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|c:\\users\\tjoeun\\desktop\\2d(1219)\\assets\\assets\\undead survivor\\script\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\undead survivor\\script\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|C:\\Users\\tjoeun\\Desktop\\2D(1219)\\assets\\assets\\undead survivor\\script\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF57BA-16F2-58D0-C3F7-13AE305D4C2D}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\undead survivor\\script\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\Assets\\Assets\\Undead Survivor\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Undead Survivor\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\Assets\\Assets\\Undead Survivor\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Undead Survivor\\Script\\GameManager.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:15:51.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\Assets\\Assets\\Undead Survivor\\Script\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Undead Survivor\\Script\\Weapon.cs",
+              "ToolTip": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\Assets\\Assets\\Undead Survivor\\Script\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Assets\\Undead Survivor\\Script\\Weapon.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAcwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:51:57.349Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,36 +62,22 @@
               "RelativeDocumentMoniker": "Assets\\Assets\\Undead Survivor\\Script\\Enemy.cs",
               "ToolTip": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\Assets\\Assets\\Undead Survivor\\Script\\Enemy.cs",
               "RelativeToolTip": "Assets\\Assets\\Undead Survivor\\Script\\Enemy.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwDcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T01:36:16.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Reposition.cs",
-              "DocumentMoniker": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\Assets\\Assets\\Undead Survivor\\Script\\Reposition.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Undead Survivor\\Script\\Reposition.cs",
-              "ToolTip": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\Assets\\Assets\\Undead Survivor\\Script\\Reposition.cs",
-              "RelativeToolTip": "Assets\\Assets\\Undead Survivor\\Script\\Reposition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:21:10.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Spawner.cs",
               "DocumentMoniker": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\Assets\\Assets\\Undead Survivor\\Script\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Assets\\Undead Survivor\\Script\\Spawner.cs",
               "ToolTip": "C:\\Users\\tjoeun\\Desktop\\2D(1219)\\Assets\\Assets\\Undead Survivor\\Script\\Spawner.cs",
               "RelativeToolTip": "Assets\\Assets\\Undead Survivor\\Script\\Spawner.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:40:02.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:40:02.596Z"
             }
           ]
         }

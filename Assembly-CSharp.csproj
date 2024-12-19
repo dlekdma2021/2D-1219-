@@ -61,10 +61,14 @@
   <ItemGroup>
     <Compile Include="Assets\Assets\Undead Survivor\Script\Enemy.cs" />
     <Compile Include="Assets\Assets\Undead Survivor\Script\Spawner.cs" />
+    <Compile Include="Assets\Assets\Undead Survivor\Script\Scanner.cs" />
+    <Compile Include="Assets\Assets\Undead Survivor\Script\Weapon.cs" />
     <Compile Include="Assets\Assets\Undead Survivor\Script\Player.cs" />
+    <Compile Include="Assets\Assets\Undead Survivor\Script\Bullet.cs" />
     <Compile Include="Assets\Assets\Undead Survivor\Script\GameManager.cs" />
     <Compile Include="Assets\Assets\Undead Survivor\Script\Reposition.cs" />
     <Compile Include="Assets\Assets\Undead Survivor\Script\PoolManager.cs" />
+    <Compile Include="Assets\Assets\Undead Survivor\Script\HUD.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -790,8 +794,14 @@
     <Reference Include="Unity.2D.IK.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Burst">
       <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Welcome.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Welcome.Editor.dll</HintPath>

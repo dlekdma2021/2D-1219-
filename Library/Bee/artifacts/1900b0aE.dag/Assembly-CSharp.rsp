@@ -325,6 +325,8 @@
 -r:"C:/Users/tjoeun/Desktop/2D(1219)/Library/PackageCache/com.unity.burst@1.6.0-pre.2/Unity.Burst.Unsafe.dll"
 -r:"C:/Users/tjoeun/Desktop/2D(1219)/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
 -r:"C:/Users/tjoeun/Desktop/2D(1219)/Library/PackageCache/com.unity.visualscripting@1.7.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/PsdPlugin.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Animation.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Animation.Runtime.ref.dll"
@@ -366,12 +368,16 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Assets/Undead Survivor/Script/Bullet.cs"
 "Assets/Assets/Undead Survivor/Script/Enemy.cs"
 "Assets/Assets/Undead Survivor/Script/GameManager.cs"
+"Assets/Assets/Undead Survivor/Script/HUD.cs"
 "Assets/Assets/Undead Survivor/Script/Player.cs"
 "Assets/Assets/Undead Survivor/Script/PoolManager.cs"
 "Assets/Assets/Undead Survivor/Script/Reposition.cs"
+"Assets/Assets/Undead Survivor/Script/Scanner.cs"
 "Assets/Assets/Undead Survivor/Script/Spawner.cs"
+"Assets/Assets/Undead Survivor/Script/Weapon.cs"
 -langversion:9.0
 
 /deterministic
